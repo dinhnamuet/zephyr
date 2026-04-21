@@ -1,0 +1,6 @@
+board:
+  name: wm_nb_iotv8_5
+  full_name: WM NB IoT V8.5
+  vendor: saoviet
+  socs:
+    - name: stm32l433xx

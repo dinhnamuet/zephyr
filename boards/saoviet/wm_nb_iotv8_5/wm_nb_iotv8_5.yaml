@@ -1,0 +1,21 @@
+identifier: wm_nb_iotv8_5
+name: SaoViet IoT Board
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+ram: 64
+flash: 256
+supported:
+  - nvs
+  - pwm
+  - can
+  - counter
+  - spi
+  - i2c
+  - gpio
+  - uart
+  - adc
+  - rtc
+vendor: saoviet
